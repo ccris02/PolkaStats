@@ -49,8 +49,9 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /polkastats
+  theme: dark
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Polkadot Upptime
   introTitle: "**Polkadot_Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
@@ -63,3 +64,12 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+#  up: "✅ Up"
+#  degraded: "⚠️ Degraded"
+#  down: "🚨 Down"
+#  liveStatusHtmlComment: "<!--live status-->"
+#  allSystemsOperational: "✅ All systems operational"
+#  degradedPerformance: "⚠️ Degraded performance"
+#  completeOutage: "🚨 Complete outage"
+#  partialOutage: "🟧 Partial outage"  
