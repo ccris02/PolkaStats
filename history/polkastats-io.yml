@@ -1,7 +1,7 @@
 url: https://polkastats.io/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-03-11T17:24:17.621Z
+status: up
+code: 200
+responseTime: 501
+lastUpdated: 2022-03-11T17:48:32.979Z
 startTime: Thu Sep 30 2021 15:53:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
