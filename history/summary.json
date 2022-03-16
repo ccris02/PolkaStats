@@ -118,9 +118,9 @@
     "url": "https://telemetry.w3f.community",
     "icon": "https://telemetry.polkadot.io/favicon.svg",
     "slug": "w3-f-telemetry",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -129,7 +129,9 @@
     "timeWeek": 549,
     "timeMonth": 518,
     "timeYear": 525,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-16": 0
+    }
   },
   {
     "name": "doTreasury.com",
