@@ -100,9 +100,9 @@
     "url": "https://telemetry.polkadot.io",
     "icon": "https://telemetry.polkadot.io/favicon.svg",
     "slug": "polkadot-telemetry",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -111,7 +111,9 @@
     "timeWeek": 604,
     "timeMonth": 583,
     "timeYear": 586,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-04": 0
+    }
   },
   {
     "name": "W3F Telemetry",
