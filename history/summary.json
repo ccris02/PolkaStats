@@ -100,19 +100,19 @@
     "url": "https://telemetry.polkadot.io",
     "icon": "https://telemetry.polkadot.io/favicon.svg",
     "slug": "polkadot-telemetry",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 586,
-    "timeDay": 575,
+    "timeDay": 589,
     "timeWeek": 604,
-    "timeMonth": 583,
+    "timeMonth": 584,
     "timeYear": 586,
     "dailyMinutesDown": {
-      "2022-05-04": 0
+      "2022-05-04": 31
     }
   },
   {
