@@ -4,9 +4,9 @@
     "url": "https://kusama.network/",
     "icon": "https://kusama.network/assets/img/favicon.ico",
     "slug": "kusama-network",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 88,
     "timeMonth": 114,
     "timeYear": 154,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-03": 0
+    }
   },
   {
     "name": "Polkadot.network",
@@ -263,12 +265,12 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.69%",
+    "uptimeWeek": "99.89%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 343,
     "timeDay": 647,
-    "timeWeek": 490,
+    "timeWeek": 543,
     "timeMonth": 503,
     "timeYear": 343,
     "dailyMinutesDown": {
