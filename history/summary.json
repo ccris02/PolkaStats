@@ -4,9 +4,9 @@
     "url": "https://kusama.network/",
     "icon": "https://kusama.network/assets/img/favicon.ico",
     "slug": "kusama-network",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 168,
     "timeYear": 154,
     "dailyMinutesDown": {
+      "2022-09-15": 0,
       "2022-06-15": 25,
       "2022-06-03": 133
     }
@@ -223,10 +224,10 @@
     "url": "https://www.dotspot.io/projects",
     "icon": "https://www.dotspot.io/apple-touch-icon.png",
     "slug": "do-tspot-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
@@ -234,7 +235,9 @@
     "timeWeek": 187,
     "timeMonth": 216,
     "timeYear": 234,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 1
+    }
   },
   {
     "name": "DOTMarketCap.com",
@@ -296,12 +299,12 @@
     "status": "up",
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.34%",
+    "uptimeWeek": "99.55%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.78%",
     "time": 709,
     "timeDay": 1699,
-    "timeWeek": 2000,
+    "timeWeek": 2062,
     "timeMonth": 1497,
     "timeYear": 709,
     "dailyMinutesDown": {
