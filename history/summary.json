@@ -117,10 +117,10 @@
     "url": "https://telemetry.polkadot.io",
     "icon": "https://telemetry.polkadot.io/favicon.svg",
     "slug": "polkadot-telemetry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 568,
@@ -129,6 +129,7 @@
     "timeMonth": 556,
     "timeYear": 568,
     "dailyMinutesDown": {
+      "2022-09-25": 1,
       "2022-06-22": 23,
       "2022-05-04": 31
     }
@@ -225,18 +226,18 @@
     "icon": "https://www.dotspot.io/apple-touch-icon.png",
     "slug": "do-tspot-io",
     "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "11.46%",
-    "uptimeWeek": "87.35%",
-    "uptimeMonth": "97.01%",
-    "uptimeYear": "99.75%",
+    "uptime": "99.72%",
+    "uptimeDay": "1.17%",
+    "uptimeWeek": "85.88%",
+    "uptimeMonth": "96.67%",
+    "uptimeYear": "99.72%",
     "time": 233,
     "timeDay": 0,
     "timeWeek": 152,
     "timeMonth": 214,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2022-09-25": 139,
+      "2022-09-25": 287,
       "2022-09-24": 1136,
       "2022-09-15": 37
     }
