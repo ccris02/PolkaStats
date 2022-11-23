@@ -1,7 +1,7 @@
 url: https://sub.id
-status: up
-code: 200
-responseTime: 849
-lastUpdated: 2022-11-22T23:03:32.745Z
+status: down
+code: 503
+responseTime: 225
+lastUpdated: 2022-11-23T18:03:28.521Z
 startTime: Thu Sep 30 2021 15:53:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
