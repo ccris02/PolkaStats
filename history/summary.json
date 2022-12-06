@@ -26,19 +26,19 @@
     "url": "https://polkadot.network/",
     "icon": "https://polkadot.network/favicon.png",
     "slug": "polkadot-network",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "92.57%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.98%",
     "time": 138,
-    "timeDay": 185,
+    "timeDay": 139,
     "timeWeek": 96,
     "timeMonth": 86,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2022-12-06": 0
+      "2022-12-06": 107
     }
   },
   {
@@ -241,7 +241,7 @@
     "uptime": "85.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "42.37%",
+    "uptimeMonth": "42.61%",
     "uptimeYear": "83.38%",
     "time": 232,
     "timeDay": 303,
