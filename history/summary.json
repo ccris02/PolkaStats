@@ -26,9 +26,9 @@
     "url": "https://polkadot.network/",
     "icon": "https://polkadot.network/favicon.png",
     "slug": "polkadot-network",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,7 +37,9 @@
     "timeWeek": 96,
     "timeMonth": 86,
     "timeYear": 113,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-06": 0
+    }
   },
   {
     "name": "Vegas1KV.com",
@@ -236,10 +238,10 @@
     "icon": "https://www.dotspot.io/apple-touch-icon.png",
     "slug": "do-tspot-io",
     "status": "up",
-    "uptime": "85.94%",
+    "uptime": "85.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "41.35%",
+    "uptimeMonth": "42.37%",
     "uptimeYear": "83.38%",
     "time": 232,
     "timeDay": 303,
