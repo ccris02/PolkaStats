@@ -6,9 +6,9 @@
     "slug": "kusama-network",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 149,
     "timeDay": 128,
@@ -16,7 +16,6 @@
     "timeMonth": 123,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2023-01-19": 6,
       "2022-09-15": 37,
       "2022-06-15": 25,
       "2022-06-03": 133
@@ -29,17 +28,16 @@
     "slug": "polkadot-network",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 135,
     "timeDay": 78,
     "timeWeek": 79,
     "timeMonth": 93,
-    "timeYear": 107,
+    "timeYear": 106,
     "dailyMinutesDown": {
-      "2023-01-19": 6,
       "2022-12-06": 107
     }
   },
@@ -103,9 +101,9 @@
     "slug": "polkadot-js-org",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 196,
     "timeDay": 4286,
@@ -113,7 +111,6 @@
     "timeMonth": 397,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2023-01-19": 6,
       "2022-07-01": 51,
       "2022-06-21": 35,
       "2022-03-12": 21
@@ -187,7 +184,7 @@
     "timeDay": 196,
     "timeWeek": 201,
     "timeMonth": 203,
-    "timeYear": 198,
+    "timeYear": 199,
     "dailyMinutesDown": {
       "2022-07-02": 16,
       "2022-07-01": 51,
@@ -230,7 +227,7 @@
     "timeDay": 549,
     "timeWeek": 1207,
     "timeMonth": 771,
-    "timeYear": 810,
+    "timeYear": 806,
     "dailyMinutesDown": {
       "2022-12-07": 16,
       "2022-10-10": 84
@@ -243,9 +240,9 @@
     "slug": "do-tspot-io",
     "status": "up",
     "uptime": "87.26%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "83.38%",
     "time": 230,
     "timeDay": 196,
@@ -253,7 +250,6 @@
     "timeMonth": 207,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2023-01-19": 6,
       "2022-11-23": 1230,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
@@ -333,7 +329,7 @@
     "timeDay": 243,
     "timeWeek": 222,
     "timeMonth": 275,
-    "timeYear": 580,
+    "timeYear": 576,
     "dailyMinutesDown": {
       "2023-01-18": 346,
       "2023-01-17": 1440,
@@ -386,7 +382,7 @@
     "timeDay": 1019,
     "timeWeek": 655,
     "timeMonth": 1277,
-    "timeYear": 1307,
+    "timeYear": 1309,
     "dailyMinutesDown": {
       "2023-01-16": 17,
       "2023-01-14": 17,
@@ -434,18 +430,16 @@
     "slug": "do-tscanner-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
     "timeDay": 108,
     "timeWeek": 100,
     "timeMonth": 110,
     "timeYear": 124,
-    "dailyMinutesDown": {
-      "2023-01-19": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Polkascan.io",
@@ -462,7 +456,7 @@
     "timeDay": 1357,
     "timeWeek": 1062,
     "timeMonth": 1098,
-    "timeYear": 1001,
+    "timeYear": 1002,
     "dailyMinutesDown": {}
   },
   {
