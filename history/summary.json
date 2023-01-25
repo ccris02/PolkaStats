@@ -446,19 +446,19 @@
     "url": "https://polkascan.io/polkadot",
     "icon": "https://polkascan.io/assets/icons/apple-touch-icon.png",
     "slug": "polkascan-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 909,
-    "timeDay": 865,
-    "timeWeek": 1160,
-    "timeMonth": 1096,
-    "timeYear": 1011,
+    "time": 912,
+    "timeDay": 1521,
+    "timeWeek": 1287,
+    "timeMonth": 1130,
+    "timeYear": 1014,
     "dailyMinutesDown": {
-      "2023-01-25": 1
+      "2023-01-25": 9
     }
   },
   {
