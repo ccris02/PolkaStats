@@ -322,12 +322,12 @@
     "status": "up",
     "uptime": "99.08%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.76%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "87.89%",
     "uptimeYear": "98.97%",
     "time": 1015,
     "timeDay": 187,
-    "timeWeek": 283,
+    "timeWeek": 297,
     "timeMonth": 287,
     "timeYear": 547,
     "dailyMinutesDown": {
@@ -446,9 +446,9 @@
     "url": "https://polkascan.io/polkadot",
     "icon": "https://polkascan.io/assets/icons/apple-touch-icon.png",
     "slug": "polkascan-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -457,7 +457,9 @@
     "timeWeek": 1160,
     "timeMonth": 1096,
     "timeYear": 1011,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "Polkastats.io",
