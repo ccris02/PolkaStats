@@ -151,9 +151,9 @@
     "slug": "w3-f-telemetry",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 558,
     "timeDay": 1313,
@@ -161,7 +161,6 @@
     "timeMonth": 619,
     "timeYear": 568,
     "dailyMinutesDown": {
-      "2023-01-25": 8,
       "2022-08-30": 150,
       "2022-08-29": 15,
       "2022-06-22": 46,
@@ -447,19 +446,19 @@
     "url": "https://polkascan.io/polkadot",
     "icon": "https://polkascan.io/assets/icons/apple-touch-icon.png",
     "slug": "polkascan-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 912,
-    "timeDay": 1521,
-    "timeWeek": 1287,
-    "timeMonth": 1130,
+    "timeDay": 1380,
+    "timeWeek": 1266,
+    "timeMonth": 1129,
     "timeYear": 1014,
     "dailyMinutesDown": {
-      "2023-01-25": 1
+      "2023-01-25": 21
     }
   },
   {
