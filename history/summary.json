@@ -149,7 +149,7 @@
     "timeDay": 410,
     "timeWeek": 506,
     "timeMonth": 535,
-    "timeYear": 552,
+    "timeYear": 551,
     "dailyMinutesDown": {
       "2022-08-30": 150,
       "2022-08-29": 15
@@ -193,7 +193,7 @@
     "timeDay": 2610,
     "timeWeek": 2021,
     "timeMonth": 2009,
-    "timeYear": 680,
+    "timeYear": 681,
     "dailyMinutesDown": {
       "2023-06-13": 88
     }
@@ -213,7 +213,7 @@
     "timeDay": 936,
     "timeWeek": 811,
     "timeMonth": 863,
-    "timeYear": 867,
+    "timeYear": 868,
     "dailyMinutesDown": {
       "2023-04-19": 463,
       "2023-04-18": 1440,
@@ -367,18 +367,19 @@
     "url": "https://sub.id",
     "icon": "https://sub.id/favicon.ico",
     "slug": "sub-id",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.58%",
-    "time": 1281,
+    "time": 1283,
     "timeDay": 795,
     "timeWeek": 745,
     "timeMonth": 1333,
-    "timeYear": 1556,
+    "timeYear": 1557,
     "dailyMinutesDown": {
+      "2023-06-23": 0,
       "2023-06-07": 16,
       "2023-05-26": 161,
       "2023-05-05": 44,
@@ -438,14 +439,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "65.52%",
+    "uptimeYear": "65.51%",
     "time": 113,
     "timeDay": 95,
     "timeWeek": 97,
     "timeMonth": 95,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2023-06-23": 1384,
+      "2023-06-23": 1432,
       "2023-06-22": 1440,
       "2023-06-21": 1440,
       "2023-06-20": 1440,
@@ -618,9 +619,9 @@
     "slug": "subsocial-network",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 399,
     "timeDay": 7557,
@@ -628,7 +629,6 @@
     "timeMonth": 671,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2023-06-23": 9,
       "2023-03-10": 29
     }
   }
