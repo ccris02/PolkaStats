@@ -315,7 +315,7 @@
     "timeMonth": 95,
     "timeYear": 1147,
     "dailyMinutesDown": {
-      "2023-10-24": 342,
+      "2023-10-24": 350,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
@@ -476,7 +476,7 @@
     "timeMonth": 86,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2023-10-24": 342,
+      "2023-10-24": 350,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
@@ -770,19 +770,19 @@
     "url": "https://subsocial.network/",
     "icon": "https://static.tildacdn.com/tild6265-6335-4237-b338-323439306134/subsocial-sign.png",
     "slug": "subsocial-network",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 251,
-    "timeDay": 253,
-    "timeWeek": 205,
-    "timeMonth": 209,
-    "timeYear": 267,
+    "timeDay": 193,
+    "timeWeek": 199,
+    "timeMonth": 206,
+    "timeYear": 266,
     "dailyMinutesDown": {
-      "2023-10-24": 1,
+      "2023-10-24": 8,
       "2023-03-10": 29
     }
   }
