@@ -97,19 +97,19 @@
     "url": "https://telemetry.polkadot.io",
     "icon": "https://telemetry.polkadot.io/favicon.svg",
     "slug": "polkadot-telemetry",
-    "status": "down",
+    "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 508,
-    "timeDay": 4603,
-    "timeWeek": 1561,
-    "timeMonth": 757,
-    "timeYear": 488,
+    "time": 516,
+    "timeDay": 4495,
+    "timeWeek": 1863,
+    "timeMonth": 867,
+    "timeYear": 499,
     "dailyMinutesDown": {
-      "2023-12-21": 0
+      "2023-12-21": 8
     }
   },
   {
@@ -285,7 +285,7 @@
     "timeMonth": 93,
     "timeYear": 842,
     "dailyMinutesDown": {
-      "2023-12-21": 647,
+      "2023-12-21": 655,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
@@ -497,7 +497,7 @@
     "timeMonth": 92,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2023-12-21": 647,
+      "2023-12-21": 655,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
