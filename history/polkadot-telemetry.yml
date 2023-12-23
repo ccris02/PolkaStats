@@ -1,7 +1,7 @@
 url: https://telemetry.polkadot.io
-status: up
-code: 200
-responseTime: 689
-lastUpdated: 2023-12-22T23:03:25.401Z
+status: down
+code: 525
+responseTime: 7909
+lastUpdated: 2023-12-23T03:44:21.309Z
 startTime: 2021-09-30T15:53:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
