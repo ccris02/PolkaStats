@@ -43,19 +43,19 @@
     "url": "https://vegas1kv.com",
     "icon": "https://vegas1kv.com/img/favicon.png",
     "slug": "vegas1-kv-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 83,
-    "timeWeek": 149,
+    "timeDay": 111,
+    "timeWeek": 148,
     "timeMonth": 147,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2023-12-27": 0
+      "2023-12-27": 8
     }
   },
   {
@@ -285,7 +285,7 @@
     "timeMonth": 87,
     "timeYear": 796,
     "dailyMinutesDown": {
-      "2023-12-27": 159,
+      "2023-12-27": 167,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -503,7 +503,7 @@
     "timeMonth": 87,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2023-12-27": 159,
+      "2023-12-27": 167,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
