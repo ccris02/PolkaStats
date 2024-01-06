@@ -207,19 +207,19 @@
     "url": "https://www.dotspot.io/projects",
     "icon": "https://www.dotspot.io/apple-touch-icon.png",
     "slug": "do-tspot-io",
-    "status": "down",
+    "status": "up",
     "uptime": "92.67%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 255,
-    "timeDay": 537,
-    "timeWeek": 367,
-    "timeMonth": 286,
-    "timeYear": 262,
+    "timeDay": 469,
+    "timeWeek": 371,
+    "timeMonth": 290,
+    "timeYear": 263,
     "dailyMinutesDown": {
-      "2024-01-06": 1
+      "2024-01-06": 11
     }
   },
   {
@@ -285,7 +285,7 @@
     "timeMonth": 84,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2024-01-06": 785,
+      "2024-01-06": 796,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
@@ -512,7 +512,7 @@
     "timeMonth": 87,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2024-01-06": 785,
+      "2024-01-06": 796,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
