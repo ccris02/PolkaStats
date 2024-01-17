@@ -1,7 +1,7 @@
 url: https://polkadot.polkassembly.io
-status: up
-code: 200
-responseTime: 876
-lastUpdated: 2024-01-17T21:51:27.558Z
+status: down
+code: 500
+responseTime: 1286
+lastUpdated: 2024-01-17T21:59:26.473Z
 startTime: 2021-09-30T15:53:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
