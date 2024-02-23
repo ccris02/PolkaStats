@@ -114,9 +114,9 @@
     "url": "https://telemetry.w3f.community",
     "icon": "https://telemetry.polkadot.io/favicon.svg",
     "slug": "w3-f-telemetry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,7 +125,9 @@
     "timeWeek": 593,
     "timeMonth": 574,
     "timeYear": 608,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-23": 0
+    }
   },
   {
     "name": "doTreasury.com",
@@ -265,18 +267,18 @@
     "icon": "https://sub.id/favicon.ico",
     "slug": "sub-id",
     "status": "down",
-    "uptime": "72.56%",
+    "uptime": "72.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.56%",
+    "uptimeYear": "34.50%",
     "time": 838,
     "timeDay": 74,
     "timeWeek": 83,
     "timeMonth": 83,
     "timeYear": 489,
     "dailyMinutesDown": {
-      "2024-02-23": 17,
+      "2024-02-23": 334,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
       "2024-02-20": 1440,
@@ -534,7 +536,7 @@
     "icon": "https://dotscanner.com/assets/circle%20logo.png",
     "slug": "do-tscanner-com",
     "status": "down",
-    "uptime": "57.74%",
+    "uptime": "57.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -545,7 +547,7 @@
     "timeMonth": 88,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2024-02-23": 17,
+      "2024-02-23": 334,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
       "2024-02-20": 1440,
