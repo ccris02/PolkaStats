@@ -114,10 +114,10 @@
     "url": "https://telemetry.w3f.community",
     "icon": "https://telemetry.polkadot.io/favicon.svg",
     "slug": "w3-f-telemetry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.47%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.46%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 597,
@@ -126,6 +126,7 @@
     "timeMonth": 575,
     "timeYear": 606,
     "dailyMinutesDown": {
+      "2024-03-01": 0,
       "2024-02-24": 37,
       "2024-02-23": 16
     }
@@ -272,14 +273,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "32.64%",
+    "uptimeYear": "32.63%",
     "time": 785,
     "timeDay": 139,
     "timeWeek": 161,
     "timeMonth": 101,
     "timeYear": 470,
     "dailyMinutesDown": {
-      "2024-03-01": 19,
+      "2024-03-01": 79,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
@@ -555,7 +556,7 @@
     "timeMonth": 92,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2024-03-01": 19,
+      "2024-03-01": 79,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
