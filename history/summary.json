@@ -283,7 +283,7 @@
     "timeMonth": 105,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2024-04-05": 449,
+      "2024-04-05": 457,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
       "2024-04-02": 1440,
@@ -590,7 +590,7 @@
     "timeMonth": 87,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2024-04-05": 449,
+      "2024-04-05": 457,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
       "2024-04-02": 1440,
@@ -998,19 +998,19 @@
     "url": "https://subsocial.network/",
     "icon": "https://static.tildacdn.com/tild6265-6335-4237-b338-323439306134/subsocial-sign.png",
     "slug": "subsocial-network",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 283,
-    "timeWeek": 179,
-    "timeMonth": 176,
+    "timeDay": 284,
+    "timeWeek": 191,
+    "timeMonth": 180,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2024-04-05": 1
+      "2024-04-05": 8
     }
   }
 ]
