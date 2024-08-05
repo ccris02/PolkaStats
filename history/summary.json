@@ -248,7 +248,7 @@
     "timeMonth": 165,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2024-08-05": 1050,
+      "2024-08-05": 1058,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
@@ -347,7 +347,7 @@
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2024-08-05": 1050,
+      "2024-08-05": 1058,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
@@ -731,7 +731,7 @@
     "timeMonth": 111,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2024-08-05": 1050,
+      "2024-08-05": 1058,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
@@ -1103,19 +1103,19 @@
     "url": "https://polkascan.io/polkadot",
     "icon": "https://polkascan.io/assets/icons/apple-touch-icon.png",
     "slug": "polkascan-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1282,
-    "timeDay": 2170,
-    "timeWeek": 2038,
-    "timeMonth": 1645,
-    "timeYear": 1327,
+    "time": 1284,
+    "timeDay": 2168,
+    "timeWeek": 2054,
+    "timeMonth": 1661,
+    "timeYear": 1329,
     "dailyMinutesDown": {
-      "2024-08-05": 1
+      "2024-08-05": 8
     }
   },
   {
