@@ -1,7 +1,7 @@
 url: https://kusama.subscan.io
-status: down
-code: 403
-responseTime: 219
-lastUpdated: 2024-09-03T23:03:29.139Z
+status: up
+code: 200
+responseTime: 290
+lastUpdated: 2024-09-04T06:23:02.308Z
 startTime: 2021-09-30T15:53:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
