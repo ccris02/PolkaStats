@@ -178,19 +178,19 @@
     "url": "https://polkaproject.com",
     "icon": "https://resource.staked.store/polkaproject/favicon.ico",
     "slug": "polka-project-com",
-    "status": "down",
+    "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 907,
-    "timeDay": 920,
-    "timeWeek": 914,
-    "timeMonth": 954,
-    "timeYear": 915,
+    "time": 908,
+    "timeDay": 1094,
+    "timeWeek": 958,
+    "timeMonth": 964,
+    "timeYear": 916,
     "dailyMinutesDown": {
-      "2024-10-08": 1
+      "2024-10-08": 8
     }
   },
   {
@@ -246,7 +246,7 @@
     "timeMonth": 647,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2024-10-08": 1061,
+      "2024-10-08": 1069,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
@@ -409,7 +409,7 @@
     "timeMonth": 109,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2024-10-08": 1061,
+      "2024-10-08": 1069,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
@@ -793,7 +793,7 @@
     "timeMonth": 104,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2024-10-08": 1061,
+      "2024-10-08": 1069,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
@@ -1177,7 +1177,7 @@
     "timeMonth": 0,
     "timeYear": 1360,
     "dailyMinutesDown": {
-      "2024-10-08": 1061,
+      "2024-10-08": 1069,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
